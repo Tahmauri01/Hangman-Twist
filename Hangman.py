@@ -291,7 +291,7 @@ def Hangman():
         print("\nYou lose...")
         print("Your word was " + str(word) + ".")
         break
-        
+            
 
 
 #TODO: create the winning screen
